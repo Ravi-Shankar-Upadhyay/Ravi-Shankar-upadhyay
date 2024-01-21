@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Shankar Upadhyay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://app.lottiefiles.com/animation/92758bfe-fbcf-44ef-b8ec-a8982e8a6475?channel=web&source=public-animation&panel=download" alt="coding">
+<img align="right" width="400" src="https://lottie.host/410e1a8e-e2e5-4560-b7a0-252c7ef5a1f4/TAI1wHOl3J.json" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-shankar-upadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-shankar-upadhyay" /> </p>
 
