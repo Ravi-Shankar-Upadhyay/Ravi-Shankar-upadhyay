@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Shankar Upadhyay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="Animation.gif"/>
+  
+<img src="https://github.com/rudrabarad/Gifs"/>
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-shankar-upadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-shankar-upadhyay" /> </p>
